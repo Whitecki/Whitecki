@@ -5,7 +5,7 @@ I'm a third-year Computer Science student at **AGH** with a passion for solving 
 ---
 
 ## About Me
-- 🔭 I’m currently working on Enhancing the classic *Snake* game ([Watch Video](https://www.youtube.com/watch?v=TOpBcfbAgPg))
+- 🔭 I’m currently working on Enhancing *Snake* game from here ([Watch Video](https://www.youtube.com/watch?v=TOpBcfbAgPg))
 - 🌱 I’m currently learning learning the **Spring** framework
 - **Interests:**  
   - 📜 History  
